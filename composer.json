@@ -44,9 +44,6 @@
         "cs-fix": "php-cs-fixer fix $1"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "master"
-        },
         "hyperf": {
             "config": "MoChat\\Framework\\ConfigProvider"
         }
